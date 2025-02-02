@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding: 0%;
+    margin: 0%;
+}
+
+.cabecalho_inicio {
+    background-color: blue;
+    display: flex;
+    gap: 1100px;
+    padding: 5px;
+    height: 110;
+}
+
+.logo {
+    width: 260px;
+    height: 120px;
+    background-color: red;
+    border-radius: 10px;
+
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    width: auto;
+    height: 100px;
+    border-radius: 10px;
+    gap: 10px;
+    padding: 10px;
+
+}
+
+.entrar {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 80px;
+}
+
+.crie_sua_conta {
+    background-color: yellow;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 80px;
+}
+.inicio{
+    
+}
